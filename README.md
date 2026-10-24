@@ -58,19 +58,23 @@ SUMIFS, COUNTIFS, AVERAGEIFS, VLOOKUP, INDEX-MATCH, IF and nested IF, AND/OR, IF
 
 **Dashboard with a filter applied (Yangon, Health and beauty, Feb)**
 
-![Filtered dashboard](screenshots/03_Dashboard_Filtered_Yangon_HealthBeauty_Feb.png)
+<img width="1482" height="1410" alt="03_Dashboard_Filtered_Yangon_HealthBeauty_Feb" src="https://github.com/user-attachments/assets/456585e8-a481-4d59-83a5-37fb52d7bc28" />
+
 
 **Pivot analysis**
 
-![Pivot analysis](screenshots/04_Pivot_Analysis.png)
+<img width="1136" height="1366" alt="04_Pivot_Analysis" src="https://github.com/user-attachments/assets/82ad7b74-cc36-4083-812a-086243e35f0c" />
+
 
 **Formulas**
 
-![Formulas](screenshots/05_Formulas.png)
+<img width="1448" height="1382" alt="05_Formulas" src="https://github.com/user-attachments/assets/571e31f4-2740-4396-81e5-e6e5fe74c2f6" />
+
 
 **Cleaning log**
 
-![Cleaning log](screenshots/08_Cleaning_Log.png)
+<img width="1932" height="807" alt="08_Cleaning_Log" src="https://github.com/user-attachments/assets/e7c70db2-491e-4828-b280-3dc5c94b4c80" />
+
 
 ## How to use
 
@@ -88,16 +92,7 @@ Settings such as what counts as a Large order or an Excellent rating are in the 
 - Only 3 months of data, so there is no yearly comparison.
 - My pivot tables are formula based (SUMIFS and COUNTIFS), not the Excel PivotTable object. This keeps them connected to the dashboard.
 
-## Folder structure
 
 ```
-Prince_ExcelDashboard.xlsx
-README.md
-screenshots/
-```
 
-## Credit
 
-Dataset: Supermarket Sales from Kaggle. Please check the Kaggle page for its licence.
-
-Made by **Prince** (BCA student)
